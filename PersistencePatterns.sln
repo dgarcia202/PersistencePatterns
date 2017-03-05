@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistencePatterns.Contrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistencePatterns.NHibernate", "PersistencePatterns.NHibernate\PersistencePatterns.NHibernate.csproj", "{8D841DBE-9397-4EC5-BE68-4914C92C694E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistencePatterns.NHibernate.WebApiUnityIntegration", "PersistencePatterns.NHibernate.WebApiUnityIntegration\PersistencePatterns.NHibernate.WebApiUnityIntegration.csproj", "{A366375B-1E74-4709-A8D0-56E0F23D65FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistencePatterns.NHibernate.Test", "PersistencePatterns.NHibernate.Test\PersistencePatterns.NHibernate.Test.csproj", "{6CD35016-6C2E-48D0-AE0E-AAF43604E07C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8D841DBE-9397-4EC5-BE68-4914C92C694E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D841DBE-9397-4EC5-BE68-4914C92C694E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D841DBE-9397-4EC5-BE68-4914C92C694E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A366375B-1E74-4709-A8D0-56E0F23D65FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A366375B-1E74-4709-A8D0-56E0F23D65FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A366375B-1E74-4709-A8D0-56E0F23D65FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A366375B-1E74-4709-A8D0-56E0F23D65FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD35016-6C2E-48D0-AE0E-AAF43604E07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD35016-6C2E-48D0-AE0E-AAF43604E07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD35016-6C2E-48D0-AE0E-AAF43604E07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD35016-6C2E-48D0-AE0E-AAF43604E07C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
